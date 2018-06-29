@@ -368,11 +368,12 @@ namespace WorkData
 
         private void button1_Click(object sender, EventArgs e)
         {
+            /*
             SaveLoad.Save(1, D);
             Data d = new Data();
             d = SaveLoad.Load(1);
             MessageBox.Show(d.s.OPR_s[0]);
-            lVerData.Text = d.ver.ToString();
+            lVerData.Text = d.ver.ToString();*/
         }
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)

@@ -38,3 +38,17 @@ C:\Users\mirmendax\Source\Repos\workdata\WorkData\obj\Debug\WorkData.csproj.Gene
 C:\Users\mirmendax\Source\Repos\workdata\WorkData\obj\Debug\WorkData.csproj.CoreCompileInputs.cache
 C:\Users\mirmendax\Source\Repos\workdata\WorkData\obj\Debug\WorkData.exe
 C:\Users\mirmendax\Source\Repos\workdata\WorkData\obj\Debug\WorkData.pdb
+E:\1\workdata\WorkData\bin\Debug\WorkData.exe.config
+E:\1\workdata\WorkData\bin\Debug\WorkData.exe
+E:\1\workdata\WorkData\bin\Debug\WorkData.pdb
+E:\1\workdata\WorkData\bin\Debug\UIElements.dll
+E:\1\workdata\WorkData\bin\Debug\WorkLib.dll
+E:\1\workdata\WorkData\bin\Debug\UIElements.pdb
+E:\1\workdata\WorkData\bin\Debug\WorkLib.pdb
+E:\1\workdata\WorkData\obj\Debug\WorkData.csprojResolveAssemblyReference.cache
+E:\1\workdata\WorkData\obj\Debug\WorkData.Form1.resources
+E:\1\workdata\WorkData\obj\Debug\WorkData.Properties.Resources.resources
+E:\1\workdata\WorkData\obj\Debug\WorkData.csproj.GenerateResource.Cache
+E:\1\workdata\WorkData\obj\Debug\WorkData.csproj.CoreCompileInputs.cache
+E:\1\workdata\WorkData\obj\Debug\WorkData.exe
+E:\1\workdata\WorkData\obj\Debug\WorkData.pdb
