@@ -44,3 +44,18 @@ C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj
 C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.pdb
 C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.EditVerPO.resources
 C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.EditSVBasic.resources
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\bin\Debug\UIElements.dll
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\bin\Debug\UIElements.pdb
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\bin\Debug\WorkLib.dll
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\bin\Debug\WorkLib.pdb
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\obj\Debug\UIElements.csprojResolveAssemblyReference.cache
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\obj\Debug\UIElements.EditOMV.resources
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\obj\Debug\UIElements.EditOPR.resources
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\obj\Debug\UIElements.EditOPS.resources
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\obj\Debug\UIElements.EditSVBasic.resources
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\obj\Debug\UIElements.EditVerPO.resources
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\obj\Debug\UIElements.Properties.Resources.resources
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\obj\Debug\UIElements.csproj.GenerateResource.Cache
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\obj\Debug\UIElements.csproj.CoreCompileInputs.cache
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\obj\Debug\UIElements.dll
+C:\Users\mirmendax\Source\Repos\workdata\UIElements\obj\Debug\UIElements.pdb

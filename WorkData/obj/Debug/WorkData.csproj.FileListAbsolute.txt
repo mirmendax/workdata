@@ -24,3 +24,17 @@ C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\obj\D
 C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\obj\Debug\WorkData.Form1.resources
 C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\obj\Debug\WorkData.Properties.Resources.resources
 C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\obj\Debug\WorkData.csproj.GenerateResource.Cache
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\bin\Debug\WorkData.exe.config
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\bin\Debug\WorkData.exe
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\bin\Debug\WorkData.pdb
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\bin\Debug\UIElements.dll
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\bin\Debug\WorkLib.dll
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\bin\Debug\UIElements.pdb
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\bin\Debug\WorkLib.pdb
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\obj\Debug\WorkData.csprojResolveAssemblyReference.cache
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\obj\Debug\WorkData.Form1.resources
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\obj\Debug\WorkData.Properties.Resources.resources
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\obj\Debug\WorkData.csproj.GenerateResource.Cache
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\obj\Debug\WorkData.csproj.CoreCompileInputs.cache
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\obj\Debug\WorkData.exe
+C:\Users\mirmendax\Source\Repos\workdata\WorkData\obj\Debug\WorkData.pdb

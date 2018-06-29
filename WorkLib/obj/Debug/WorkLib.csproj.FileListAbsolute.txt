@@ -7,3 +7,8 @@ C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkLib\obj\De
 C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkLib\bin\Debug\WorkLib.dll
 C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkLib\bin\Debug\WorkLib.pdb
 C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkLib\obj\Debug\WorkLib.pdb
+C:\Users\mirmendax\Source\Repos\workdata\WorkLib\bin\Debug\WorkLib.dll
+C:\Users\mirmendax\Source\Repos\workdata\WorkLib\bin\Debug\WorkLib.pdb
+C:\Users\mirmendax\Source\Repos\workdata\WorkLib\obj\Debug\WorkLib.csproj.CoreCompileInputs.cache
+C:\Users\mirmendax\Source\Repos\workdata\WorkLib\obj\Debug\WorkLib.dll
+C:\Users\mirmendax\Source\Repos\workdata\WorkLib\obj\Debug\WorkLib.pdb
