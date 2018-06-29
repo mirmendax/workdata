@@ -1,0 +1,46 @@
+C:\Users\АНТОН\Documents\Visual Studio 2013\Projects\UIElements\UIElements\bin\Debug\UIElements.dll
+C:\Users\АНТОН\Documents\Visual Studio 2013\Projects\UIElements\UIElements\bin\Debug\UIElements.pdb
+C:\Users\АНТОН\Documents\Visual Studio 2013\Projects\UIElements\UIElements\obj\Debug\UIElements.EditOPR.resources
+C:\Users\АНТОН\Documents\Visual Studio 2013\Projects\UIElements\UIElements\obj\Debug\UIElements.csproj.GenerateResource.Cache
+C:\Users\АНТОН\Documents\Visual Studio 2013\Projects\UIElements\UIElements\obj\Debug\UIElements.dll
+C:\Users\АНТОН\Documents\Visual Studio 2013\Projects\UIElements\UIElements\obj\Debug\UIElements.pdb
+C:\Users\АНТОН\Documents\Visual Studio 2013\Projects\UIElements\UIElements\obj\Debug\UIElements.Properties.Resources.resources
+C:\Users\АНТОН\Documents\Visual Studio 2013\Projects\UIElements\UIElements\obj\Debug\UIElements.EditOPS.resources
+C:\Users\АНТОН\Documents\Visual Studio 2013\Projects\UIElements\UIElements\obj\Debug\UIElements.csprojResolveAssemblyReference.cache
+C:\Users\АНТОН\Documents\Visual Studio 2013\Projects\UIElements\UIElements\obj\Debug\UIElements.EditOMV.resources
+E:\UIElements\UIElements\bin\Debug\UIElements.dll
+E:\UIElements\UIElements\bin\Debug\UIElements.pdb
+E:\UIElements\UIElements\obj\Debug\UIElements.csprojResolveAssemblyReference.cache
+E:\UIElements\UIElements\obj\Debug\UIElements.EditOMV.resources
+E:\UIElements\UIElements\obj\Debug\UIElements.EditOPR.resources
+E:\UIElements\UIElements\obj\Debug\UIElements.EditOPS.resources
+E:\UIElements\UIElements\obj\Debug\UIElements.Properties.Resources.resources
+E:\UIElements\UIElements\obj\Debug\UIElements.csproj.GenerateResource.Cache
+E:\UIElements\UIElements\obj\Debug\UIElements.dll
+E:\UIElements\UIElements\obj\Debug\UIElements.pdb
+E:\WorkData\UIElements\bin\Debug\UIElements.dll
+E:\WorkData\UIElements\bin\Debug\UIElements.pdb
+E:\WorkData\UIElements\bin\Debug\WorkLib.dll
+E:\WorkData\UIElements\bin\Debug\WorkLib.pdb
+E:\WorkData\UIElements\obj\Debug\UIElements.csprojResolveAssemblyReference.cache
+E:\WorkData\UIElements\obj\Debug\UIElements.EditOMV.resources
+E:\WorkData\UIElements\obj\Debug\UIElements.EditOPR.resources
+E:\WorkData\UIElements\obj\Debug\UIElements.EditOPS.resources
+E:\WorkData\UIElements\obj\Debug\UIElements.Properties.Resources.resources
+E:\WorkData\UIElements\obj\Debug\UIElements.csproj.GenerateResource.Cache
+E:\WorkData\UIElements\obj\Debug\UIElements.dll
+E:\WorkData\UIElements\obj\Debug\UIElements.pdb
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\bin\Debug\UIElements.dll
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\bin\Debug\UIElements.pdb
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\bin\Debug\WorkLib.dll
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\bin\Debug\WorkLib.pdb
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.csprojResolveAssemblyReference.cache
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.EditOMV.resources
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.EditOPR.resources
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.EditOPS.resources
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.Properties.Resources.resources
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.csproj.GenerateResource.Cache
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.dll
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.pdb
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.EditVerPO.resources
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\UIElements\obj\Debug\UIElements.EditSVBasic.resources

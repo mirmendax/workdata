@@ -1,0 +1,26 @@
+E:\WorkData\WorkData\bin\Debug\WorkData.exe.config
+E:\WorkData\WorkData\bin\Debug\WorkData.exe
+E:\WorkData\WorkData\bin\Debug\WorkData.pdb
+E:\WorkData\WorkData\bin\Debug\UIElements.dll
+E:\WorkData\WorkData\bin\Debug\WorkLib.dll
+E:\WorkData\WorkData\bin\Debug\UIElements.pdb
+E:\WorkData\WorkData\bin\Debug\WorkLib.pdb
+E:\WorkData\WorkData\obj\Debug\WorkData.csprojResolveAssemblyReference.cache
+E:\WorkData\WorkData\obj\Debug\WorkData.Form1.resources
+E:\WorkData\WorkData\obj\Debug\WorkData.Properties.Resources.resources
+E:\WorkData\WorkData\obj\Debug\WorkData.csproj.GenerateResource.Cache
+E:\WorkData\WorkData\obj\Debug\WorkData.exe
+E:\WorkData\WorkData\obj\Debug\WorkData.pdb
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\bin\Debug\WorkData.exe.config
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\obj\Debug\WorkData.exe
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\obj\Debug\WorkData.pdb
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\bin\Debug\WorkData.exe
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\bin\Debug\WorkData.pdb
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\bin\Debug\UIElements.dll
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\bin\Debug\WorkLib.dll
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\bin\Debug\UIElements.pdb
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\bin\Debug\WorkLib.pdb
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\obj\Debug\WorkData.csprojResolveAssemblyReference.cache
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\obj\Debug\WorkData.Form1.resources
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\obj\Debug\WorkData.Properties.Resources.resources
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkData\obj\Debug\WorkData.csproj.GenerateResource.Cache

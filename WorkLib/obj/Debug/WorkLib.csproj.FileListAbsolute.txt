@@ -1,0 +1,9 @@
+E:\WorkData\WorkLib\bin\Debug\WorkLib.dll
+E:\WorkData\WorkLib\bin\Debug\WorkLib.pdb
+E:\WorkData\WorkLib\obj\Debug\WorkLib.dll
+E:\WorkData\WorkLib\obj\Debug\WorkLib.pdb
+E:\WorkData\WorkLib\obj\Debug\WorkLib.csprojResolveAssemblyReference.cache
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkLib\obj\Debug\WorkLib.dll
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkLib\bin\Debug\WorkLib.dll
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkLib\bin\Debug\WorkLib.pdb
+C:\Users\MIRMendax\Documents\Visual Studio 2013\Projects\WorkData\WorkLib\obj\Debug\WorkLib.pdb

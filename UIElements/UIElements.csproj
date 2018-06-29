@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E847B524-8420-4E62-A21D-F31C5465EC07}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>UIElements</RootNamespace>
+    <AssemblyName>UIElements</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EditSVBasic.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditSVBasic.Designer.cs">
+      <DependentUpon>EditSVBasic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditVerPO.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditVerPO.Designer.cs">
+      <DependentUpon>EditVerPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIElementLib.cs" />
+    <Compile Include="EditOMV.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditOMV.Designer.cs">
+      <DependentUpon>EditOMV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditOPR.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditOPR.Designer.cs">
+      <DependentUpon>EditOPR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditOPS.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditOPS.Designer.cs">
+      <DependentUpon>EditOPS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="EditOMV.resx">
+      <DependentUpon>EditOMV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditOPR.resx">
+      <DependentUpon>EditOPR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditOPS.resx">
+      <DependentUpon>EditOPS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditSVBasic.resx">
+      <DependentUpon>EditSVBasic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditVerPO.resx">
+      <DependentUpon>EditVerPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WorkLib\WorkLib.csproj">
+      <Project>{145f788d-94e3-4b15-8b79-a09144468411}</Project>
+      <Name>WorkLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

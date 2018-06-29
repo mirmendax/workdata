@@ -1,0 +1,54 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WorkLib
+{
+    [Serializable]
+    public class Data
+    {
+		int agr_num = 0;
+		Generator gen = new Generator();
+		SV sv = new SV();
+		Defect defect = new Defect();
+		
+		public int AgrNum { get { return agr_num; } }
+		public Generator Gen { get { return gen; } }
+		public SV SysV { get { return sv; } }
+		public Defect Def { get { return defect; } }
+				
+		#region override
+		public override bool Equals(object obj)
+        {
+            return this.agr_num == (obj as Data).agr_num;
+        }
+		#endregion
+		
+		
+		public Data(){ }
+		
+		public Data(int _agr = 0) 
+		{
+			if (_agr > 0) {
+				agr_num = _agr;
+				
+			}
+			else {
+				agr_num = 0;
+				gen = new Generator();
+				sv = new SV();
+				defect = new Defect();
+			}
+		}
+		
+		public Data(int _agr, Generator _gen, SV _sv, Defect _d)
+		{
+			agr_num = _agr;
+			gen = _gen;
+			sv = _sv;
+			defect = _d;
+		}
+	}
+}
